@@ -2,17 +2,18 @@
 
 I am Dayane. Welcome to my Github profile.
 
-Since 2022, after years in business schools, I am studying full stack development at Driven Education and looking for new challenges. 🌱 
+After years in business schools, I am currently studying full stack development at Driven Education and looking for new challenges. 🌱 
 
 You can reach me on LinkedIn: https://www.linkedin.com/in/acdayane/
 
 See you!
 
-##Languages
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />          
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
-                    
+<h2>Languages</h2>
+<div display="flex">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="50" width="auto"/>          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="50" width="auto"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="50" width="auto"/>
+</div>
     
 
 
