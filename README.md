@@ -4,31 +4,37 @@ I am Dayane. Welcome to my Github profile.
 
 After years in business schools, I am currently studying full stack development at Driven Education and looking for new challenges. 🌱 
 
-You can reach me on LinkedIn: https://www.linkedin.com/in/acdayane/
-
 See you!
 
-<h3>Languages</h3>
-<div display="flex">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="60" width="auto"/>          
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="60" width="auto"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="60" width="auto"/>
+<div>
+<a href="https://github.com/acdayane">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acdayane&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=acdayane&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-<h3>Technologies</h3>
-<h4>Front end</h4>
+<h2>Languages</h2>
+<div display="flex">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="60" width="auto"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="60" width="auto"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="60" width="auto"/>          
+</div>
+
+<h2>Technologies and tools</h2>
+<h3>Front end</h3>
 <div display="flex">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="60" width="auto"/>          
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="60" width="auto"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="60" width="auto"/>
 </div> 
-<h4>Back end</h4>
+<h3>Back end</h3>
 <div display="flex">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" height="60" width="auto"/>          
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height="60" width="auto"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="60" width="auto"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" height="60" width="auto"/>
-</div>         
+</div> 
+
+<h2>Contact</h2>
+<a href="https://www.linkedin.com/in/acdayane/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
           
           
 <!--
