@@ -9,17 +9,11 @@ You can reach me on LinkedIn: https://www.linkedin.com/in/acdayane/
 See you!
 
 ##Languages
-<i class="devicon-javascript-plain"></i>    <i class="devicon-css3-plain-wordmark"></i>     <i class="devicon-html5-plain-wordmark"></i>   
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
                     
-##Technologies
-#Front end <3 
-<i class="devicon-react-original-wordmark"></i>     <i class="devicon-npm-original-wordmark"></i>
-          
-#Back end
-<i class="devicon-mongodb-plain-wordmark"></i>     <i class="devicon-postgresql-plain-wordmark"></i>     <i class="devicon-nodejs-plain-wordmark"></i>
-           
-##Tools
-<i class="devicon-visualstudio-plain-wordmark"></i>     <i class="devicon-trello-plain-wordmark"></i>        
+    
 
 
 <!--
@@ -35,4 +29,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+##Technologies
+#Front end <3 
+<i class="devicon-react-original-wordmark"></i>     <i class="devicon-npm-original-wordmark"></i>
+          
+#Back end
+<i class="devicon-mongodb-plain-wordmark"></i>     <i class="devicon-postgresql-plain-wordmark"></i>     <i class="devicon-nodejs-plain-wordmark"></i>
+           
+##Tools
+<i class="devicon-visualstudio-plain-wordmark"></i>     <i class="devicon-trello-plain-wordmark"></i> 
 -->
