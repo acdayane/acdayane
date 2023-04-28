@@ -30,6 +30,8 @@ See you!
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" height="60" width="auto"/>
 <img src="https://devicons.railway.app/i/prisma-dark.svg" height="60" width="auto" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="60" width="auto"/>
+<img src="https://devicons.railway.app/i/nextjs-dark.svg" height="60" width="auto"/>
+<img src="https://devicons.railway.app/i/nestjs.svg" height="60" width="auto"/>
 </div> 
 
 <h2>Contact</h2>
@@ -49,14 +51,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-##Technologies
-#Front end <3 
-<i class="devicon-react-original-wordmark"></i>     <i class="devicon-npm-original-wordmark"></i>
-          
-#Back end
-<i class="devicon-mongodb-plain-wordmark"></i>     <i class="devicon-postgresql-plain-wordmark"></i>     <i class="devicon-nodejs-plain-wordmark"></i>
-           
-##Tools
-<i class="devicon-visualstudio-plain-wordmark"></i>     <i class="devicon-trello-plain-wordmark"></i> 
 -->
