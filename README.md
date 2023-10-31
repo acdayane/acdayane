@@ -2,7 +2,7 @@
 
 I am Dayane. Welcome to my Github profile.
 
-After years in business schools, I am currently studying full stack development at Driven Education and looking for new challenges. 🌱 
+After years in business schools, I am currently studying full stack development and looking for new challenges. 🌱 
 
 See you!
 
@@ -18,6 +18,7 @@ See you!
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="60" width="auto"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="60" width="auto"/>   
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="60" width="auto"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" height="60" width="auto"/>
 </div>
 
 <h2>Technologies and tools</h2>
